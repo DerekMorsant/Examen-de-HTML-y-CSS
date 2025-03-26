@@ -1,0 +1,15 @@
+.section {
+    display: flex;        
+}
+.div {
+    width: auto;
+    gap: 5px;
+    height: auto;
+    margin-top: 5px;
+}
+.div1, .div2, .div3 {
+    border: 1px solid gray;
+    gap: 5px;
+    margin: 10px 0px;
+    padding: 5px;
+}
